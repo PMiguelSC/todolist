@@ -1,0 +1,12 @@
+h1 {
+    color: #333;
+  }
+  
+  li {
+    list-style-type: none;
+    margin-bottom: 5px;
+  }
+  
+  li input[type="checkbox"] {
+    margin-right: 10px;
+  }

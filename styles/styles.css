@@ -1,0 +1,26 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #414141;
+  max-height: 100vh;
+}
+
+h1 {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+  
+li {
+  list-style-type: none;
+  color: #ffffff;
+  
+  margin-bottom: 5px;
+}
+  
+li input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+footer {
+  color: #ffffff;
+}
